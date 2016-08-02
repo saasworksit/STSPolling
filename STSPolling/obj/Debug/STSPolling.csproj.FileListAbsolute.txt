@@ -1,0 +1,5 @@
+F:\Projects\STSPolling\STSPolling\obj\Debug\STSPolling.csprojResolveAssemblyReference.cache
+F:\Projects\STSPolling\STSPolling\bin\Debug\STSPolling.dll
+F:\Projects\STSPolling\STSPolling\bin\Debug\STSPolling.pdb
+F:\Projects\STSPolling\STSPolling\obj\Debug\STSPolling.dll
+F:\Projects\STSPolling\STSPolling\obj\Debug\STSPolling.pdb

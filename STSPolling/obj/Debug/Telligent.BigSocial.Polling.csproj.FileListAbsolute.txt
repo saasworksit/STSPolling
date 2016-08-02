@@ -1,0 +1,6 @@
+C:\Users\ospluser\Desktop\Arivu\Telligent\Telligent.BigSocial.Polling\Telligent.BigSocial.Polling\obj\Debug\Telligent.BigSocial.Polling.csprojResolveAssemblyReference.cache
+F:\Projects\Telligent.BigSocial.Polling\Telligent.BigSocial.Polling\bin\Debug\Telligent.BigSocial.Polling.dll
+F:\Projects\Telligent.BigSocial.Polling\Telligent.BigSocial.Polling\bin\Debug\Telligent.BigSocial.Polling.pdb
+F:\Projects\Telligent.BigSocial.Polling\Telligent.BigSocial.Polling\obj\Debug\Telligent.BigSocial.Polling.csprojResolveAssemblyReference.cache
+F:\Projects\Telligent.BigSocial.Polling\Telligent.BigSocial.Polling\obj\Debug\Telligent.BigSocial.Polling.dll
+F:\Projects\Telligent.BigSocial.Polling\Telligent.BigSocial.Polling\obj\Debug\Telligent.BigSocial.Polling.pdb
